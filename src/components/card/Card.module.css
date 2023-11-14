@@ -1,7 +1,12 @@
 
+.card__container{
+	display: grid;
+	
+}
 
 .card{
 	
+	grid-template-rows: 1fr;
 	cursor: pointer;
 }
 
