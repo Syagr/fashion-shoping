@@ -5,7 +5,7 @@ import arrowImg from './../../img/icons/arrow.svg'
 const Card = (props) => {
 	
 	return (
-		<div className={styles.card}>#
+		<div className={styles.card}>
 			<a href="#" className={styles.card__link}></a>
       <img className={styles.card__img} src={props.img} alt="category..." />
       <div className="styles card__body">

@@ -14,38 +14,39 @@ const Brands = () => (
       <ul className="brand__list">
         <li>
           <a href="!">
-            {' '}
-            <img src={hm} alt="" />{' '}
+           
+            <img src={hm} alt="" />
+          </a>
+        </li>
+        <li>
+          <a href="!">
+            
+            <img src={obey} alt="" />
+          </a>
+          </li>
+        
+        <li>
+          <a href="!">
+            
+            <img src={shopify} alt="" />
+          </a>
+        </li>
+        <li>
+          <a href="!">
+            
+            <img src={lacoste} alt="" />
+          </a>
+        </li>
+        <li>
+          <a href="!">
+            
+            <img src={levis} alt="" />
           </a>
         </li>
         <li>
           <a href="!">
             {' '}
-            <img src={obey} alt="" />{' '}
-          </a>
-        </li>
-        <li>
-          <a href="!">
-            {' '}
-            <img src={shopify} alt="" />{' '}
-          </a>
-        </li>
-        <li>
-          <a href="!">
-            {' '}
-            <img src={lacoste} alt="" />{' '}
-          </a>
-        </li>
-        <li>
-          <a href="!">
-            {' '}
-            <img src={levis} alt="" />{' '}
-          </a>
-        </li>
-        <li>
-          <a href="!">
-            {' '}
-            <img src={amazon} alt="" />{' '}
+            <img src={amazon} alt="" />
           </a>
         </li>
       </ul>

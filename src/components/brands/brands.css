@@ -1,11 +1,12 @@
 .brands{
-	padding: 60px 0 55px;
+padding: 60px 0 55px;
 background-color: var(--yellow);
 }
 
-.brands__list{
-display: flex;
-column-gap: 120px;
-mix-blend-mode: multiply;
-align-items: center;
+.brand__list {
+  display: flex;
+  justify-content: space-around; /* Adjusts the spacing between items */
+  align-items: center; /* Vertically aligns items in the middle */
+  flex-wrap: wrap; /* Allows the items to wrap onto multiple lines if necessary */
+
 }
