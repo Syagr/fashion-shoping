@@ -5,8 +5,6 @@
 }
 
 .card{
-	
-	grid-template-rows: 1fr;
 	cursor: pointer;
 }
 
