@@ -9,9 +9,10 @@
 	margin-bottom: 75px;
 }
 
-.arrivals__card{
-	
-	
+.arrivals__cards{
+	display: flex;
+	flex-direction: row;
+	gap: 20px;
 }
 
 .container{
